@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# 👨‍💻 Omar Abbas
+# 👨‍💻 About Me
 
-💻 **Computer Science Student | AUB**  
+💻 **Computer Science Student at AUB**  
 🔧 Passionate about coding, problem-solving, and learning new technologies  
 🚀 Interested in AI, software development, and building scalable systems  
 🌱 Always exploring new projects and contributing to open-source  
